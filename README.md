@@ -3,3 +3,12 @@
 ---
 
 Program for generating an image which shows the Fibonacci fractal. Creating this simple program was inspired by a task from one of the extended computer science graduation exams.
+
+#### Technologies I used:
+* java
+* swing 
+* awt
+
+### How it looks like:
+![](./BinnaryFractal.png)
+
